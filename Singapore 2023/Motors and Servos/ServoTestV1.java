@@ -37,6 +37,6 @@ public class ServoTestV1 extends LinearOpMode {
           Servo.setPower(0);
         }
       }
-      }
     }
+  }
   
